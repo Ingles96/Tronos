@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Beneficios y gastos</title>
+    <title>Juego de Tronos</title>
   </head>
   <body>
     <table class="menu">
